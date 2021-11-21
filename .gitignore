@@ -74,4 +74,9 @@
 *.out
 *.app
 
+# others
+*.rar
+*.jpg
+*.jpeg
+
 # End of https://www.toptal.com/developers/gitignore/api/c++
